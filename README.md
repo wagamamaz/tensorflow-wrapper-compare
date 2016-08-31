@@ -4,6 +4,7 @@ Run Keras, TensorLayer and Tflearn with same model and data on a same GPU machin
 
 The parameter initialization may have slightly different, but would not effect the speed.
 
+Feel free to PUSH !
 
 ## Speed of MLP
 
