@@ -1,8 +1,9 @@
 # Comparsion of TensorFlow Wrappers
 
-## Speed of MLP
+Run Keras, TensorLayer and Tflearn with same model and data on a same GPU machine.
 
-run Keras, TensorLayer and Tflearn with same model and data on a same GPU machine.
+
+## Speed of MLP
 
 GPU: GTX980
 
@@ -19,3 +20,8 @@ Keras: 282.475250s  = 1.41 s/epoch
 TensorLayer: 116.670947s = 0.58 s/epoch
 
 Tflearn:
+
+## Speed of CNN
+
+
+## Speed of LSTM
