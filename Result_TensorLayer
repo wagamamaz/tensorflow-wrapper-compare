@@ -144,7 +144,6 @@ Epoch 195 of 200 took 0.562397s
 Epoch 200 of 200 took 0.571549s
    val loss: 0.055525
    val acc: 0.984400
-Total training time: 116.670947
 Total training time: 116.670978s
 Start testing the network ...
    test loss: 0.049633
