@@ -5,7 +5,7 @@ I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library
 I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcuda.so.1 locally
 I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcurand.so locally
 50000 train samples
-10000 test samples
+10000 val samples
 10000 test samples
 (50000, 10) (10000, 10)
 I tensorflow/core/common_runtime/gpu/gpu_init.cc:102] Found device 0 with properties:
