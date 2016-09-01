@@ -10,6 +10,8 @@ Feel free to PUSH !
 
 GPU: GTX980
 
+TensorFlow: r0.10
+
 Data: MNIST  train:50k  val:10k  test:10k
 
 Model: 784-800-800-10
